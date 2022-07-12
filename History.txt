@@ -1,0 +1,24 @@
+VERSION NOTES:
+
+v0.1.1a
+
+*****************
+*** IMPORTANT ***
+*****************
+
+*** THESE CHANGES MIGHT BREAK COMPATIBILITY WITH OLDER PATCHES ***
+
+***********************
+*** VERSION CHANGES ***
+***********************
+
+- sy.normalize			New external
+
+- all objects			Fixed wrong behavior with long numbers 
+
+- sy.filter			Now accept lists
+
+- sy.route			New object
+
+- sy.iter			Fixed memory leak
+

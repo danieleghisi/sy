@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<root>
+<refpage name='sy.append.maxref.xml'/>
+<refpage name='sy.case.maxref.xml'/>
+<refpage name='sy.collect.maxref.xml'/>
+<refpage name='sy.compare.maxref.xml'/>
+<refpage name='sy.convert.maxref.xml'/>
+<refpage name='sy.empty.maxref.xml'/>
+<refpage name='sy.filter.maxref.xml'/>
+<refpage name='sy.filterempty.maxref.xml'/>
+<refpage name='sy.find.maxref.xml'/>
+<refpage name='sy.insert.maxref.xml'/>
+<refpage name='sy.is.maxref.xml'/>
+<refpage name='sy.iter.maxref.xml'/>
+<refpage name='sy.itou.maxref.xml'/>
+<refpage name='sy.join.maxref.xml'/>
+<refpage name='sy.length.maxref.xml'/>
+<refpage name='sy.normalize.maxref.xml'/>
+<refpage name='sy.nth.maxref.xml'/>
+<refpage name='sy.pad.maxref.xml'/>
+<refpage name='sy.perm.maxref.xml'/>
+<refpage name='sy.prepend.maxref.xml'/>
+<refpage name='sy.read.maxref.xml'/>
+<refpage name='sy.replace.maxref.xml'/>
+<refpage name='sy.rev.maxref.xml'/>
+<refpage name='sy.rot.maxref.xml'/>
+<refpage name='sy.route.maxref.xml'/>
+<refpage name='sy.scramble.maxref.xml'/>
+<refpage name='sy.slice.maxref.xml'/>
+<refpage name='sy.sort.maxref.xml'/>
+<refpage name='sy.split.maxref.xml'/>
+<refpage name='sy.subs.maxref.xml'/>
+<refpage name='sy.transform.maxref.xml'/>
+<refpage name='sy.utoi.maxref.xml'/>
+<refpage name='sy.write.maxref.xml'/>
+</root>

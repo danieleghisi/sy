@@ -1,0 +1,35 @@
+/Users/danieleghisi/max-sdk-7.0.3/source/sy/mains
+
+
+
+/Users/danieleghisi/max-sdk-7.0.3/source/sy/commons/sy.doc.commons.h
+
+/Users/danieleghisi/Documents/Max 7/Packages/sy/docs/refpages/sy_ref
+/Users/danieleghisi/Documents/Max 7/Packages/sy/init
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+sy
+1
+0
+0
+0
+0
+/Users/danieleghisi/max-sdk-7.0.3/source/sy/commons/sy.doc.substitutions.h
+/Users/danieleghisi/Documents/Max 7/Packages/sy/interfaces
+1
+sy math
+0
+/Users/danieleghisi/Documents/Max 7/Packages/bach/help
+0
+bach.help
+/Users/danieleghisi/Documents/Max 7/Packages/bach/help/bach.help.json
+bach.help.home.maxpat, bach.help.search.maxpat, bach.help.searchtag.maxpat
+

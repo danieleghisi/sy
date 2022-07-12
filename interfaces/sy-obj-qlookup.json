@@ -1,0 +1,617 @@
+{
+  "sy.append": {
+    "digest": "Append characters",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "append",
+      "join"
+    ],
+    "seealso": [
+      "sy.prepend",
+      "combine"
+    ]
+  },
+  "sy.case": {
+    "digest": "Map case",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "convert",
+      "change",
+      "case",
+      "lower",
+      "upper",
+      "switch",
+      "invert",
+      "symbol_capitalize",
+      "title",
+      "fold",
+      "unicode",
+      "capital"
+    ],
+    "seealso": [
+    ]
+  },
+  "sy.collect": {
+    "digest": "Collect characters",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "collect",
+      "append",
+      "join",
+      "merge",
+      "connect",
+      "combine"
+    ],
+    "seealso": [
+      "sy.iter",
+      "zl.group"
+    ]
+  },
+  "sy.compare": {
+    "digest": "Compare symbols",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "compare",
+      "alphabetical",
+      "ASCII",
+      "order",
+      "equal",
+      "different",
+      "before",
+      "after"
+    ],
+    "seealso": [
+      "sy.sort"
+    ]
+  },
+  "sy.convert": {
+    "digest": "Perform encoding conversions",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "convert",
+      "normalization",
+      "remove",
+      "diacritic",
+      "ascii",
+      "toascii"
+    ],
+    "seealso": [
+      "sy.transform",
+      "sy.normalize",
+      "sy.utoi"
+    ]
+  },
+  "sy.empty": {
+    "digest": "Empty symbol",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "empty",
+      "null",
+      "none"
+    ],
+    "seealso": [
+      "sy.subs"
+    ]
+  },
+  "sy.filter": {
+    "digest": "Let only certain characters through",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "filter",
+      "category",
+      "type",
+      "character",
+      "codepoint",
+      "let through",
+      "choose"
+    ],
+    "seealso": [
+      "sy.is"
+    ]
+  },
+  "sy.filterempty": {
+    "digest": "Filter out empty symbols",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "filter",
+      "empty",
+      "symbol",
+      "null",
+      "none"
+    ],
+    "seealso": [
+      "sy.filter",
+      "sy.nth"
+    ]
+  },
+  "sy.find": {
+    "digest": "Find occurrences of substrings in a symbol",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "search",
+      "find",
+      "substring",
+      "subsymbol",
+      "match",
+      "retrieve"
+    ],
+    "seealso": [
+      "sy.replace",
+      "regexp"
+    ]
+  },
+  "sy.insert": {
+    "digest": "Insert characters",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "insert",
+      "wedge"
+    ],
+    "seealso": [
+      "sy.subs",
+      "sy.nth",
+      "combine",
+      "sprintf"
+    ]
+  },
+  "sy.is": {
+    "digest": "Map each character to its category",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "is",
+      "translate",
+      "category",
+      "type",
+      "character",
+      "codepoint"
+    ],
+    "seealso": [
+      "sy.filter"
+    ]
+  },
+  "sy.iter": {
+    "digest": "Iterate on characters",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "iter",
+      "output",
+      "character",
+      "single",
+      "chunk"
+    ],
+    "seealso": [
+      "sy.collect",
+      "sy.utoi",
+      "combine",
+      "spell",
+      "zl.iter",
+      "iter"
+    ]
+  },
+  "sy.itou": {
+    "digest": "Convert a list of integers (code units) into UTF-8 characters",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "convert",
+      "unicode",
+      "character",
+      "code unit",
+      "codepoint",
+      "encoding",
+      "integer"
+    ],
+    "seealso": [
+      "sy.utoi",
+      "itoa",
+      "spell"
+    ]
+  },
+  "sy.join": {
+    "digest": "Join characters",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "join",
+      "append",
+      "combine"
+    ],
+    "seealso": [
+      "sy.append",
+      "sy.prepend",
+      "combine",
+      "sprintf"
+    ]
+  },
+  "sy.length": {
+    "digest": "Length of a symbol",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "get",
+      "retrieve",
+      "length",
+      "character",
+      "number",
+      "count",
+      "size"
+    ],
+    "seealso": [
+      "sy.utoi",
+      "atoi"
+    ]
+  },
+  "sy.normalize": {
+    "digest": "Normalize Unicode sequences",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "normalize",
+      "decompose",
+      "compose",
+      "normalization",
+      "form",
+      "decomposition",
+      "composition",
+      "diacritic",
+      "equivalent"
+    ],
+    "seealso": [
+      "sy.convert",
+      "sy.filter"
+    ]
+  },
+  "sy.nth": {
+    "digest": "Return characters by indices",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "index",
+      "return",
+      "character",
+      "codepoint",
+      "address",
+      "position"
+    ],
+    "seealso": [
+      "sy.filterempty",
+      "sy.slice"
+    ]
+  },
+  "sy.pad": {
+    "digest": "Pad symbols",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "pad",
+      "join"
+    ],
+    "seealso": [
+      "sy.append",
+      "combine"
+    ]
+  },
+  "sy.perm": {
+    "digest": "Find character permutations",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "perm",
+      "permute",
+      "characters"
+    ],
+    "seealso": [
+      "sy.scramble"
+    ]
+  },
+  "sy.prepend": {
+    "digest": "Prepend characters",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "prepend",
+      "join"
+    ],
+    "seealso": [
+      "sy.append",
+      "combine"
+    ]
+  },
+  "sy.read": {
+    "digest": "Read text file",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "read",
+      "open",
+      "file",
+      "symbol"
+    ],
+    "seealso": [
+      "sy.read"
+    ]
+  },
+  "sy.replace": {
+    "digest": "Replace characters or sequences of characters",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "replace",
+      "substitute",
+      "swap",
+      "sequence",
+      "character",
+      "regular",
+      "expression",
+      "re",
+      "regexp"
+    ],
+    "seealso": [
+      "sy.find",
+      "regexp"
+    ]
+  },
+  "sy.rev": {
+    "digest": "Reverse symbols",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "reverse",
+      "mirror",
+      "backward",
+      "inverse",
+      "character"
+    ],
+    "seealso": [
+      "sy.rot"
+    ]
+  },
+  "sy.rot": {
+    "digest": "Rotate symbol characters",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "rotate",
+      "shift",
+      "circular",
+      "character"
+    ],
+    "seealso": [
+      "sy.rev"
+    ]
+  },
+  "sy.route": {
+    "digest": "Route symbols according to starting or ending characters",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "route",
+      "key",
+      "select",
+      "start",
+      "character"
+    ],
+    "seealso": [
+      "route",
+      "routepass",
+      "sy.find",
+      "sy.compare"
+    ]
+  },
+  "sy.scramble": {
+    "digest": "Randomly permute characters",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "scramble",
+      "permute",
+      "shuffle",
+      "character"
+    ],
+    "seealso": [
+      "sy.perm"
+    ]
+  },
+  "sy.slice": {
+    "digest": "Split symbol into two",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "split",
+      "point",
+      "slice",
+      "divide",
+      "two",
+      "index"
+    ],
+    "seealso": [
+      "sy.nth",
+      "sy.split"
+    ]
+  },
+  "sy.sort": {
+    "digest": "Sort symbols alphabetically",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "sort",
+      "alphabetical",
+      "ASCII",
+      "order",
+      "equal",
+      "different",
+      "before",
+      "after"
+    ],
+    "seealso": [
+      "sy.compare"
+    ]
+  },
+  "sy.split": {
+    "digest": "Split symbols according to separators",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "split",
+      "separator",
+      "divide",
+      "break"
+    ],
+    "seealso": [
+      "sy.slice"
+    ]
+  },
+  "sy.subs": {
+    "digest": "Substitute characters",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "substitute",
+      "replace",
+      "modify"
+    ],
+    "seealso": [
+      "sy.insert",
+      "sy.replace",
+      "sy.empty"
+    ]
+  },
+  "sy.transform": {
+    "digest": "Perform translitterations and more general text transformation",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "transform",
+      "normalization",
+      "remove",
+      "diacritic",
+      "latin",
+      "convert",
+      "translitterate",
+      "translitteration",
+      "case",
+      "change",
+      "modify"
+    ],
+    "seealso": [
+      "sy.case",
+      "sy.normalize",
+      "sy.convert"
+    ]
+  },
+  "sy.utoi": {
+    "digest": "Decode UTF-8 characters into a list of integers (code units)",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "convert",
+      "unicode",
+      "character",
+      "decode",
+      "trailing",
+      "leading",
+      "code unit",
+      "codepoint",
+      "encoding",
+      "integer",
+      "output"
+    ],
+    "seealso": [
+      "sy.itou",
+      "atoi",
+      "spell"
+    ]
+  },
+  "sy.write": {
+    "digest": "Write text to file",
+    "module": "sy",
+    "category": [
+      "sy"
+    ],
+    "keywords": [
+      "save",
+      "write",
+      "symbol",
+      "file"
+    ],
+    "seealso": [
+      "sy.read"
+    ]
+  }
+}

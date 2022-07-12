@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "neighbors_anything:sy.neighbors.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "words[w]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "reparse_atom_array_account_for_numout:sy.commons.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "av + i">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

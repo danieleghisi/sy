@@ -1,0 +1,2 @@
+max definecommand S patcher inserttextobj sy.;
+max definecommandinstructions patcher S "sy object";

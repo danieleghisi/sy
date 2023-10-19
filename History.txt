@@ -1,4 +1,7 @@
 VERSION NOTES:
+v0.2a
+
+Compatible with Mac arm + Rosetta
 
 v0.1.1a
 
